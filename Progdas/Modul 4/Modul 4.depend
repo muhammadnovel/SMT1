@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1638051189 source:d:\kuliah\semester 1\pemrograman dasar\tugas\modul 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<unistd.h>
+	<windows.h>
+	"kegiatan1.h"
+	"kegiatan2.h"
+
+1638050487 source:d:\kuliah\semester 1\pemrograman dasar\tugas\modul 4\kegiatan2.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<unistd.h>
+	<windows.h>
+
+1638050477 source:d:\kuliah\semester 1\pemrograman dasar\tugas\modul 4\kegiatan1.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1638050477 d:\kuliah\semester 1\pemrograman dasar\tugas\modul 4\kegiatan1.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1638050487 d:\kuliah\semester 1\pemrograman dasar\tugas\modul 4\kegiatan2.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<unistd.h>
+	<windows.h>
+
+1638113065 d:\kuliah\semester 1\pemrograman dasar\tugas\modul 4\kegiatan1.h
+
+1638087362 d:\kuliah\semester 1\pemrograman dasar\tugas\modul 4\kegiatan2.h
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1636336848 source:d:\kuliah\semester 1\pemrograman dasar\tugas\modul 3\main.c
+	"struct.h"
+
+1635283547 source:d:\kuliah\semester 1\pemrograman dasar\tugas\modul 3\cadangan.c
+	<stdio.h>
+	<stdlib.h>
+
+1636303991 d:\kuliah\semester 1\pemrograman dasar\tugas\modul 3\struct.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+

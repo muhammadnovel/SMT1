@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1634736120 source:d:\kuliah\semester 1\pemrograman dasar\tugas\modul 2\modul_2\resource.rc
+
+1634736305 source:d:\kuliah\semester 1\pemrograman dasar\tugas\modul 2\modul_2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	"rumus.h"
+	"caption.h"
+
+1634736353 d:\kuliah\semester 1\pemrograman dasar\tugas\modul 2\modul_2\rumus.h
+
+1634736535 d:\kuliah\semester 1\pemrograman dasar\tugas\modul 2\modul_2\caption.h
+
+1635095256 source:d:\kuliah\semester 1\pemrograman dasar\tugas\modul 2\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+	"rumus.h"
+	"caption.h"
+
+1635087255 d:\kuliah\semester 1\pemrograman dasar\tugas\modul 2\rumus.h
+
+1635122355 d:\kuliah\semester 1\pemrograman dasar\tugas\modul 2\caption.h
+
+1634768879 source:d:\kuliah\semester 1\pemrograman dasar\tugas\modul 2\resource.rc
+
